@@ -1,0 +1,11 @@
+# Mapx for MODIS sinu 500m global projection
+# Tile id: h23v08
+Map Projection:           Sinusoidal
+Map Equatorial Radius:    6371007.181; NASA eq rad
+Map Reference Latitude:   0.0
+Map Reference Longitude:  0.0
+Grid Width:               2400
+Grid Height:              2400
+Grid Cells Per Map Unit:  0.002158369634487567; 2400/1111950.41
+Grid Map Origin Column:   -12000.5
+Grid Map Origin Column:   2399.5

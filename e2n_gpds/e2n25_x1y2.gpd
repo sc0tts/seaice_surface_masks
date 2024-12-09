@@ -1,0 +1,17 @@
+# Mapx for EASE2 NH 25 grid tile
+# Tile id: x1y2
+# This resolution can be integer-nested to generate
+#   multiples of 25km maps
+Map Projection:           Azimuthal Equal-Area (ellipsoid)
+Map Reference Latitude:   90.0
+Map Reference Longitude:  0.0
+Map Rotation           :  0.0
+Map Equatorial Radius:    6378137.0      ; WGS84
+Map Eccentricity:         0.081819190843 ; WGS84
+Map Origin X:             -4500000.0; meters
+Map Origin Y:             0.0; meters
+Grid Map Origin Column:   -0.5
+Grid Map Origin Row:      -0.5
+Grid Map Units per Cell:  25000;  meters
+Grid Width:               180
+Grid Height:              180

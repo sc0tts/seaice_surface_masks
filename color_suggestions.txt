@@ -1,0 +1,7 @@
+Hi Scott,
+
+These look great! Only thing I’m deliberating about is whether ice shelves should be lighter or darker than the land ice. The Univ. of Bremen go darker for ice shelves (https://seaice.uni-bremen.de/sea-ice-concentration/amsre-amsr2/, scroll down to the Antarctic image on the right), butI it doesn’t really matter. WorldView goes lighter for ice shelves. Maybe keep ice shelves lighter but darken them just a bit (bring them a bit closer to land ice, e.g., go down 5 or 10 on the 0-255 scale). But this is really just nitpicking - it looks perfectly fine now. 
+
+BTW, it’s funny how the land ice on Greenland looks a darker shade than the land ice on Antarctica. I assume those are the same value, it is the classic optical illusion of the eyes being tricked by the surrounding shades/colors. 
+
+walt

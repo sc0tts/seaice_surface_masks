@@ -1,0 +1,13 @@
+; 390.625m Northern Hemisphere Polar Stereo grid parameter definition
+; x1y1 tile (of 4) == Lower Right Quadrant
+Map Projection:                       Polar_Stereographic_Ellipsoid
+Map Reference Latitude:               90.
+Map Reference Longitude:              -45.
+Map Scale:                             0.390625. ; grid res (km)
+Map Second Reference Latitude:        70.
+Map Eccentricity:                   0.081816153	; psn
+Map Equatorial Radius:              6378.2730 ; psn
+Grid Width:                           9600 ; right 64*150 of 64*304 total
+Grid Height:                          13696 ; bottom 64*214 of 64*448 total
+Grid Map Origin Column:               -0.5 ; 0/390.625 - 0.5
+Grid Map Origin Row:                  -0.5 ; 0/390.625 - 0.5

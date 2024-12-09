@@ -1,0 +1,12 @@
+; 390.625m Southern Hemisphere Polar Stereo grid parameter definition
+Map Projection:                       Polar_Stereographic_Ellipsoid
+Map Reference Latitude:               -90.
+Map Reference Longitude:              0.
+Map Scale:                             0.390625 ; grid res (km)
+Map Second Reference Latitude:        -70.
+Map Eccentricity:                   0.081816153	; pss
+Map Equatorial Radius:              6378.2730 ; pss
+Grid Width:                           10112 ; 64 * (316 - 158)
+Grid Height:                          10112 ; 64 * (332 - 174)
+Grid Map Origin Column:               -0.5 ; 0/390.625 - 0.5
+Grid Map Origin Row:                  -0.5 ; 0/390.625 - 0.5
